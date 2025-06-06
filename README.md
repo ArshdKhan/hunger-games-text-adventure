@@ -34,10 +34,8 @@ Welcome to the **Hunger Games Console Game**! This is a simple text-based advent
 5. Aim to survive all encounters and win the Hunger Games.
 
 ## Contributors
-- **A Arshad Khan** (PES2UG22CS001)
-- **Adithya S** (PES2UG22CS031)
-- **Ankith Gowda B S** (PES2UG22CS077)
-- **Ankith M** (PES2UG22CS078)
+- [**A Arshad Khan**](https://github.com/ArshdKhan)
+- [**Adithya S**](https://github.com/Nanashibi)
 
 ## Acknowledgments
 - Inspired by *The Hunger Games* series by Suzanne Collins.
